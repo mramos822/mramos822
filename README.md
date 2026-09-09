@@ -38,14 +38,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub</h3>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mramos822&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=mramos822&layout=compact&langs_count=6&hide_border=true" />
-</p>
-
----
-
 <h4 align="center">Other projects</h4>
 
 - **CrowdAlpha** — backend for LLM-driven tools producing real-time market insights, from data ingestion through the API the front end consumed (4-person Agile team, NJIT capstone).
