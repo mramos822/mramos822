@@ -9,7 +9,7 @@
 
 - 🛠️ I take work from the first commit to production and stay responsible for it — React / Next.js on the front end, REST and real-time APIs on Node, and the PostgreSQL schema and CI/CD underneath.
 - 🌍 Right now I'm building **[myGeoChallenge](https://mygeochallenge.com)**, a live multiplayer geography game I designed, built, and shipped solo.
-- 🎓 CS graduate, New Jersey Institute of Technology (December 2025).
+- 🎓 CS graduate, New Jersey Institute of Technology.
 - 📫 [marianojramos@gmail.com](mailto:marianojramos@gmail.com) · [LinkedIn](https://linkedin.com/in/mariano-ramos-3b471a293)
 
 ---
